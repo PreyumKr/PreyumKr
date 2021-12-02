@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### HEllO
 
 ---
-[![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark&align=center)](https://github.com/preyumkr/github-readme-stats)
+[![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark)](https://github.com/preyumkr/github-readme-stats)
