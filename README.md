@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ### HEllO
 
 ---
-<p allign="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark"/></p>
