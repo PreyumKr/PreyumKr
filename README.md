@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ### HEllO
 
 ---
-
-[![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&count_private=true&theme=dark)](https://github.com/preyumkr/github-readme-stats)
+<p style="text-align: center;">
+[![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark)](https://github.com/preyumkr/github-readme-stats)</p>
