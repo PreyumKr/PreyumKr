@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ---
 
-[![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr)](https://github.com/preyumkr/github-readme-stats)
+[![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&count_private=true&theme=radical)](https://github.com/preyumkr/github-readme-stats)
