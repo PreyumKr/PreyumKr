@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preyum Kumar</h1>
+
 ---
+
 ### Hi there 👋
 
 <!--
@@ -20,4 +22,4 @@ Here are some ideas to get you started:
 ### HEllO
 
 ---
-<p><img allign="center" src="https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark"/></p>
