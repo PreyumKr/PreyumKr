@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="CSS/style.css">
+<link rel="stylesheet" href="CSS\style.css">
 <h1 align="center">Hi 👋, I'm Preyum Kumar</h1>
 
 ---
