@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Preyum Kumar</h1>
 
 ---
-
 <!--
 **PreyumKr/PreyumKr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -15,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preyumkr" alt="preyumkr" /></a> </p>
 
