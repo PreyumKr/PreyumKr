@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preyumkr" alt="preyumkr" /></a> </p>
 
 ---
-[![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark)](https://github.com/preyumkr/github-readme-stats)
-[![PreyumKr's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PreyumKr&theme=dark)](https://github.com/preyumkr/github-readme-streak)
- <!-- <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devded&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devded&theme=tokyonight" />
-</p> -->
+<!-- [![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark)](https://github.com/preyumkr/github-readme-stats)
+[![PreyumKr's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PreyumKr&theme=dark)](https://github.com/preyumkr/github-readme-streak) -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PreyumKr&theme=dark" />
+</p>
