@@ -1,6 +1,8 @@
+<link rel="stylesheet" href="CSS/style.css">
 <h1 align="center">Hi 👋, I'm Preyum Kumar</h1>
 
 ---
+<span class="wave">👋</span>
 
 ### Hi there 👋
 
