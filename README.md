@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ### HEllO
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark"/></p>
+[![PreyumKr's GitHub stats]("https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark)](https://github.com/preyumkr/github-readme-stats)
