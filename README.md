@@ -26,5 +26,8 @@ Here are some ideas to get you started:
 
 ---
 [![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark)](https://github.com/preyumkr/github-readme-stats)
- [![PreyumKr's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=devded&theme=dark)](https://github.com/preyumkr/github-readme-streak)
- 
+[![PreyumKr's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PreyumKr&theme=dark)](https://github.com/preyumkr/github-readme-streak)
+ <!-- <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devded&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=devded&theme=tokyonight" />
+</p> -->
