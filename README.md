@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### My Trophies:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preyumkr&theme=darkhub" alt="preyumkr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preyumkr&theme=darkhub&row=2&column=7" alt="preyumkr" /></a> </p>
 
 ---
 
