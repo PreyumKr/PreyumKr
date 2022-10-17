@@ -26,4 +26,4 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PreyumKr&theme=dark" />
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=preyumkr&label=Profile%20views&color=brightgreen&style=plastic" alt="preyumkr" /> </p>
-<p align="right"> <img src="https://hits.dwyl.com/preyumkr/preyumkr.svg?label=Preyum&style=plastic" alt="preyumkr" /> </p>
+<!-- <p align="right"> <img src="https://hits.dwyl.com/preyumkr/preyumkr.svg?label=Preyum&style=plastic" alt="preyumkr" /> </p> -->
