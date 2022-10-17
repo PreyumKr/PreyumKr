@@ -25,5 +25,9 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PreyumKr&theme=dark" />
 </p>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=preyumkr&theme=blue-green)
+
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=preyumkr&label=Profile%20views&color=brightgreen&style=plastic" alt="preyumkr" /> </p>
 <!-- <p align="right"> <img src="https://hits.dwyl.com/preyumkr/preyumkr.svg?label=Preyum&style=plastic" alt="preyumkr" /> </p> -->
