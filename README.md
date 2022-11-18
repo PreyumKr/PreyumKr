@@ -26,6 +26,9 @@ Here are some ideas to get you started:
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PreyumKr&theme=dark" />
 </p>
 
+[![@preyumkr's Holopin board](https://holopin.me/preyumkr)](https://holopin.io/@preyumkr)
+
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=preyumkr&theme=blue-green)
 
 
