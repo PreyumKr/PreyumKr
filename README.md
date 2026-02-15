@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My Trophies:
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preyumkr&theme=darkhub&row=2&column=7" alt="preyumkr" /></a> </p>
-
----
-
 <!-- [![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark)](https://github.com/preyumkr/github-readme-stats)
 [![PreyumKr's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PreyumKr&theme=dark)](https://github.com/preyumkr/github-readme-streak) -->
 <p align="left">
