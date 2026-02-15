@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <!-- [![PreyumKr's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark)](https://github.com/preyumkr/github-readme-stats)
 [![PreyumKr's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=PreyumKr&theme=dark)](https://github.com/preyumkr/github-readme-streak) -->
-<p align="left">
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark" /> -->
+<!-- <p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PreyumKr&count_private=true&show_icons=true&theme=dark" />
+</p> -->
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PreyumKr&theme=dark" />
-</p>
 
 [![@preyumkr's Holopin board](https://holopin.me/preyumkr)](https://holopin.io/@preyumkr)
 
