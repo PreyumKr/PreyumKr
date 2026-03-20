@@ -29,9 +29,9 @@ Transforming complex data into interactive experiences. I'm a Full Stack Develop
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/preyumkr"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-</p>
-
-<p align="center">
-  <iframe src="https://github.com/sponsors/PreyumKr/button" title="Sponsor PreyumKr" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sponsors/PreyumKr">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
+  </a>
 </p>
 <!-- <p align="right"> <img src="https://hits.dwyl.com/preyumkr/preyumkr.svg?label=Preyum&style=plastic" alt="preyumkr" /> </p> -->
